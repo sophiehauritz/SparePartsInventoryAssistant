@@ -14,4 +14,4 @@ How it works:
 - Special queries:
   - `Do you actually have any parts?`
   - `Is there anything in stock at all?`
-    these will show the number of parts and their names)
+    (these will show the number of parts and their names)
